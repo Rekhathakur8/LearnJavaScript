@@ -1,5 +1,9 @@
-// function sayMyName(){
-//     console.log("R");
+// function sayMyNamefunction calculateCardPrice(...num1){
+//   return num1;
+// }
+
+// console.log(calculateCardPrice(456,76866296,782097));(){
+// //     console.log("R");
 //     console.log("E");
 //     console.log("K");
 //     console.log("H");
@@ -36,9 +40,3 @@
 // console.log(calculateCardPrice(5,6,7,8,));
 
 // // using rest operator 
-
-function calculateCardPrice(...num1){
-  return num1;
-}
-
-console.log(calculateCardPrice(456,76866296,782097));
