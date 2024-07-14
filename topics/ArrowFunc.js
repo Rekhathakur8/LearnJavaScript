@@ -51,7 +51,7 @@
 
 // const chai = (num1,num2)=> (num1 * num2);
 
-const chai = ()=> ({username : "rekha thakur"});
+// const chai = ()=> ({username : "rekha thakur"});
 
 
-console.log(chai());
+// console.log(chai());
